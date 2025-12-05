@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "DOGLAND",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2025-12-05T02:15:52.980426Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DOGLAND",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/01_DOGLAND_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DOGLAND",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/02_DOGLAND_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dogland",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/03_Dogland_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DOGLAND",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/04_DOGLAND_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stories from Dogland",
+      "artist": "Pati Yang",
+      "has_synced": false,
+      "path": "select/05_Stories_from_Dogland_Pati_Yang.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DOGLAND",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/06_DOGLAND_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DOGLAND",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/07_DOGLAND_PEOPLE_1.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DOGLAND",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/08_DOGLAND_Will_Stetson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DOGLAND (English Cover)「Chainsaw Man ED 10」【Will Stetson】「PEOPLE 1」",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/09_DOGLAND_(English_Cover)「Chainsaw_Man_ED_10」【Will_Stetson】「PEOPLE_1」_Will_Stetson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOGLAND",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_DOGLAND_PEOPLE_1.txt"
+    }
+  ]
+}
